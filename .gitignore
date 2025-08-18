@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Auth/session data
+.baileys_auth/
+.wwebjs_auth/
+
+# Env files
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
