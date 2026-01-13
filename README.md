@@ -106,8 +106,5 @@ Guidelines:
 
 ## License
 
-This project is provided under the MIT License. See the LICENSE file for details.
 
 ---
-
-If you want, I can adapt this README to reflect the actual libraries and file structure used in this repository — tell me which WhatsApp library (Baileys, whatsapp-web.js, etc.) or point me to the main bot file and I'll update the docs to be specific.
